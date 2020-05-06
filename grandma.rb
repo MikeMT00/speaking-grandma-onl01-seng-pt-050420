@@ -2,7 +2,7 @@ def speak_to_grandma(phrase)
   if phrase == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
   if phrase == "Hi Nana, how are you?"
-     return "HUH!? SPEAK UP SONNY!"
+    return "HUH!? SPEAK UP SONNY!"
   end
 end
 
